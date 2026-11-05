@@ -1,0 +1,1 @@
+To deploy, either use VS code and right click on the YML file and select "Deploy", or from ContainerLab, use "sudo clab deploy -t topology.clab.yml". To destroy, from VS Code, right click on the deployed file then select "Destroy". This does not destroy the file, only the deployment. Through ContainerLab, use "sudo clab destroy -t topology.clab.yml".
