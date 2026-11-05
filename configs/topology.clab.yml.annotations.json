@@ -1,0 +1,33 @@
+{
+  "freeTextAnnotations": [],
+  "freeShapeAnnotations": [],
+  "trafficRateAnnotations": [],
+  "groupStyleAnnotations": [],
+  "networkNodeAnnotations": [],
+  "nodeAnnotations": [
+    {
+      "id": "lb",
+      "position": {
+        "x": 200,
+        "y": 360
+      }
+    },
+    {
+      "id": "web1",
+      "position": {
+        "x": 460,
+        "y": 340
+      }
+    },
+    {
+      "id": "web2",
+      "position": {
+        "x": 700,
+        "y": 360
+      }
+    }
+  ],
+  "edgeAnnotations": [],
+  "aliasEndpointAnnotations": [],
+  "viewerSettings": {}
+}
